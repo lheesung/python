@@ -8,4 +8,4 @@
 # price(3)
 
 from test import price as pr
-pr(3242)
+pr(3)
