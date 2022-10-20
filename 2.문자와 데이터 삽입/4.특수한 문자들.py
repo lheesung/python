@@ -1,0 +1,6 @@
+print("Huisung's \"tutorial\"")
+print("\\")
+print("Hello\nWorld")
+print("Hello\t\tworld")
+print("\a")
+print('Hello\nworld')
